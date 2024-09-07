@@ -1,5 +1,3 @@
-## IT IS TIME TO GO LIVE THE LIFE TBH.
-
 **Why is ikigAI Labs Building a Fine-Tuned LLM?**
 
 Simple: because it can do the things that don’t scale for humans.
