@@ -9,6 +9,13 @@ import {
 } from '@/components/ui/credenza';
 import DOMPurify from 'dompurify';
 
+interface WebResult {
+  title: string;
+  url: string;
+  description: string;
+  // Add any other properties that are present in your search results
+}
+
 export default function WebReferences({
   searchResults,
 }: {
@@ -28,7 +35,7 @@ export default function WebReferences({
       <Credenza>
         <div className="flex flex-col gap-2 mb-4">
           <div className="flex flex-row gap-4 overflow-x-auto mt-4">
-            {searchResults?.web.results.slice(0, 6).map((item, index) => (
+            {searchResults?.web.results.slice(0, 6).map((item: WebResult, index: number) => (
               <div
                 key={`SearchResults-${index}`}
                 className="bg-white border border-neutral-400 backdrop-blur-md rounded-xl bg-opacity-30 w-96 flex flex-col gap-4 p-2"
