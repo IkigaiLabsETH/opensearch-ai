@@ -13,6 +13,9 @@ interface WebResult {
   title: string;
   url: string;
   description: string;
+  meta_url: {
+    favicon: string;
+  };
   // Add any other properties that are present in your search results
 }
 
