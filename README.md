@@ -1,4 +1,4 @@
-**Why is ikigAI Labs Building a Fine-Tuned LLM?** This is our **Aha! Moment**!
+**Why is ikigAI Labs Building a Fine-Tuned LLM?** This is our **$AHA Moment**!
 
 ## Because it handles the tasks that humans can’t easily scale.
 
