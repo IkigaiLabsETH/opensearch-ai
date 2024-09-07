@@ -1,4 +1,4 @@
-## IT IS TIME TO GO LIVE THE LIFE TBH. LFG
+## IT IS TIME TO GO LIVE THE LIFE TBH.
 
 WHY WILL IKIGAI LABS SPEND TIME BUILDING A FINE TUNED LLM
 SIMPLE: BECAUSE IT CAN DO THE THINGS THAT DON'T SCALE AS HUMAN
@@ -7,7 +7,7 @@ ENTERTAIN & EDUCATE US WITH A DAY: WEEK : MONTH AND YEAR REPORT
 PROVIDE US WITH A SEARCH & CHAT UI SO WE CAN ASK HIM ANYTHING.
 CALL IT OUR AHA MOMENT !!!
 
-# LESS TIME WATCHING THE CHARTS, TOUCH SOME GRASS
+# LESS TIME WATCHING THE CHARTS, LFG TOUCH SOME GRASS
 
 ## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. 
 
