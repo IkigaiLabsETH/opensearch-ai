@@ -20,4 +20,4 @@ The **LTL AI Travel Assistant** taps into Mem0’s memory capabilities to delive
 - [Shadcn UI](https://tailwindui.com/) - UI components, designed to integrate beautifully with Tailwind CSS
 - [GPT-4o-mini](https://openai.com) - With support for text, image, video and audio inputs and outputs
 - [Cloudflare Pages](https://pages.cloudflare.com/) - A platform for building and deploying web applications
-- [Supermemory.ai](https://supermemory.ai) - The Dream Team
+- [Supermemory.ai](https://supermemory.ai) - Unlock your digital brain with supermemory
