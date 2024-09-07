@@ -7,7 +7,9 @@ ENTERTAIN & EDUCATE US WITH A DAY: WEEK : MONTH AND YEAR REPORT
 PROVIDE US WITH A SEARCH & CHAT UI SO WE CAN ASK HIM ANYTHING
 LESS TIME WATCHING THE CHARTS, TOUCH SOME GRASS
 
-## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. It's like a perplexity / searchGPT clone, but for you.
+## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. 
+
+# It's like a perplexity / searchGPT clone, but for you.
 
 
 ### Powered by
