@@ -6,7 +6,7 @@
 - Entertain and educate us with daily, weekly, monthly, and yearly reports
 - Provide a search and chat UI so we can ask it anything
 
-# Spend Less Time Watching Charts—Go Touch Some Grass, LFG!
+## Spend Less Time Watching Charts—Go Touch Some Grass, LFG!
 
 The **LTL AI Travel Assistant** taps into Mem0’s memory capabilities to deliver context-aware, personalized responses. As you engage, it continuously learns and refines, offering ever more tailored travel recommendations. This creates a unique AI experience that reduces costs while enhancing user satisfaction. Think of it as a self-improving memory layer for AI agents—a personalized search engine that learns your preferences as you explore the top 1000 hotels that LiveTheLife.TV has curated the past two decades.
 
