@@ -1,11 +1,14 @@
 ## IT IS TIME TO GO LIVE THE LIFE TBH.
 
-WHY WILL IKIGAI LABS SPEND TIME BUILDING A FINE TUNED LLM
-SIMPLE: BECAUSE IT CAN DO THE THINGS THAT DON'T SCALE AS HUMAN
-TRACK THE TOP 69 CRYPTOCURRENCIES AND TOP 420 NFT COLLECTIONS
-ENTERTAIN & EDUCATE US WITH A DAY: WEEK : MONTH AND YEAR REPORT
-PROVIDE US WITH A SEARCH & CHAT UI SO WE CAN ASK HIM ANYTHING.
-CALL IT OUR AHA MOMENT !!!
+**Why is ikigAI Labs Building a Fine-Tuned LLM?**
+
+Simple: because it can do the things that don’t scale for humans.
+
+- Track the top 69 cryptocurrencies and the top 420 NFT collections
+- Entertain and educate us with daily, weekly, monthly, and yearly reports
+- Provide a search and chat UI so we can ask it anything
+
+This is our **Aha! Moment**!
 
 # LESS TIME WATCHING THE CHARTS, LFG TOUCH SOME GRASS
 
