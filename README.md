@@ -4,7 +4,7 @@
 
 - Track the top 69 cryptocurrencies and the top 420 NFT collections
 - Entertain and educate us with daily, weekly, monthly, and yearly reports
-- Provide a search and chat UI so we can ask it anything
+- Provide a search and chat UI so we can ask 'him' anything. $AHA is born
 
 ## Spend Less Time Watching Charts—Go Touch Some Grass, LFG!
 
