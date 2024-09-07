@@ -1,13 +1,13 @@
 ## OpenSearch GPT
 
-OK SO WHY WILL IKIGAI LABS SPEND TIME BUILDING A FINE TUNED LLM
+WHY WILL IKIGAI LABS SPEND TIME BUILDING A FINE TUNED LLM
 SIMPLE: BECAUSE IT CAN DO THE THINGS THAT DON'T SCALE AS HUMAN
 TRACK THE TOP 69 CRYPTOCURRENCIES AND TOP 420 NFT COLLECTIONS
 ENTERTAIN & EDUCATE US WITH A DAY: WEEK : MONTH AND YEAR REPORT
 PROVIDE US WITH A SEARCH & CHAT UI SO WE CAN ASK HIM ANYTHING
 LESS TIME WATCHING THE CHARTS, TOUCH SOME GRASS
 
-# LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. It's like a perplexity / searchGPT clone, but for you.
+## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. It's like a perplexity / searchGPT clone, but for you.
 
 
 ### Powered by
