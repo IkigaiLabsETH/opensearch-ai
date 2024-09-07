@@ -22,5 +22,4 @@ LESS TIME WATCHING THE CHARTS, TOUCH SOME GRASS
 - [Cobe](https://github.com/shuding/cobe) - Globe animation
 - [GPT-4o-mini](https://openai.com)
 - [Cloudflare Pages](https://pages.cloudflare.com/) - A platform for building and deploying web applications
-
-Built by [Supermemory.ai](https://supermemory.ai) team.
+- [Supermemory.ai](https://supermemory.ai) - The Dream Team
