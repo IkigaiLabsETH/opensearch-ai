@@ -21,6 +21,6 @@ The **LTL AI Travel Assistant** taps into Mem0’s memory capabilities to delive
 - [GPT-4o-mini](https://openai.com) - With support for text, image, video and audio inputs and outputs
 - [Cloudflare Pages](https://pages.cloudflare.com/) - A platform for building and deploying web applications
 
-## FOMO AI Agent, Travel Assistant & Aer Advisor with "supermemory"
+## FOMO AI Agent, Travel Assistant & Art Advisor with "supermemory"
 
 Mem0 differs from Retrieval-Augmented Generation (RAG) by offering dynamic memory capabilities for LLMs. Unlike RAG, which retrieves static information, Mem0 understands and relates entities across interactions, ensuring contextual continuity and adaptive learning. It prioritizes recent interactions while gradually forgetting outdated data, allowing for more relevant and up-to-date responses. Mem0 also supports dynamic updates and personalized improvements based on user feedback, making it ideal for applications requiring long-term engagement and real-time adaptation, such as our Founder Mode AI Agents and Travel Assistant & Art Advisor.
