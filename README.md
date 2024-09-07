@@ -12,7 +12,7 @@ This is our **Aha! Moment**!
 
 # LESS TIME WATCHING THE CHARTS, LFG TOUCH SOME GRASS
 
-## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. 
+## LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the top 1000 hotels. 
 
 # It's like a perplexity / searchGPT clone, but for you.
 
