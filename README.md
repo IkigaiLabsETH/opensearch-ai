@@ -5,8 +5,7 @@ SIMPLE: BECAUSE IT CAN DO THE THINGS THAT DON'T SCALE AS HUMAN
 TRACK THE TOP 69 CRYPTOCURRENCIES AND TOP 420 NFT COLLECTIONS
 ENTERTAIN & EDUCATE US WITH A DAY: WEEK : MONTH AND YEAR REPORT
 PROVIDE US WITH A SEARCH & CHAT UI SO WE CAN ASK HIM ANYTHING
-
-OK SO NOW WE NEED TO SPEND TIME WATCHING THE CHARTS, WHAT DO WE DO NEXT?
+LESS TIME WATCHING THE CHARTS, WHAT DO WE DO NEXT? LFG TRAVEL
 
 # LTL AI Travel Assistant leverages Mem0’s memory capabilities to provide context-aware responses. As you interact with it, the assistant learns and improves, offering increasingly personalized travel advice and information. Create personalized AI experiences that saves costs and delights users. A self-improving memory layer for AI Agents. A personalised AI search engine that learns about you and your interests as you browse the web. It's like a perplexity / searchGPT clone, but for you.
 
