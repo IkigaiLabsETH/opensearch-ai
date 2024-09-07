@@ -1,12 +1,10 @@
-**Why is ikigAI Labs Building a Fine-Tuned LLM?**
+**Why is ikigAI Labs Building a Fine-Tuned LLM?** This is our **Aha! Moment**!
 
 # Because it can do the things that don’t scale for humans.
 
 - Track the top 69 cryptocurrencies and the top 420 NFT collections
 - Entertain and educate us with daily, weekly, monthly, and yearly reports
 - Provide a search and chat UI so we can ask it anything
-
-This is our **Aha! Moment**!
 
 # Spend Less Time Watching Charts—Go Touch Some Grass, LFG!
 
